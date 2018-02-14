@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3287-3F92
+
+ Directory of C:\Users\rakes\Desktop\my devops project
+
+02/13/2018  07:00 PM    <DIR>          .
+02/13/2018  07:00 PM    <DIR>          ..
+02/13/2018  07:00 PM                 0 testfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,866,602,242,048 bytes free
